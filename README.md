@@ -28,7 +28,7 @@ py_arrow_int8_array.to_ruby # -> An object of Arrow::Int8Array
 
 ## Dependencies
 
-* [Red Arrow](https://github.com/red-data-tools/red-arrow)
+* [Red Arrow](https://github.com/apache/arrow/tree/master/ruby/red-arrow)
 
 * [PyCall](https://github.com/mrkn/pycall)
 
